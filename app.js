@@ -27,6 +27,35 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import * as Ej3 from './ejercicio3.js'; 
+
+// Bloque de ejecución dentro de ejecutarApp():
+console.log("\n======== EJERCICIO 3: ACTUALIZACIÓN (PUT/PATCH) ========");
+console.log(await Ej3.actualizarPostTotal(1, { title: "Nuevo Título", body: "Nuevo Cuerpo", userId: 1 }));
+console.log(await Ej3.actualizarPostParcial(1, { title: "Título solo editado" }));
+
 // ***************************** TRANSFERENCIA ***************************
 
 
