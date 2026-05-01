@@ -8,7 +8,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :---------------------- | :----------------- | :---------------- |
 | Jhon Poveda             | Líder (Arquitecto) | `@jhonpoveda01`   |
 | [Nombre del Aprendiz 2] | Desarrollador      | `@usuario2`       |
-| [Nombre del Aprendiz 3] | Desarrollador      | `@usuario3`       |
+| [eliseo amaya guerrero 3] | Desarrollador      | `@eliam170`       |
 
 ## 2. Canales de Comunicación
 
