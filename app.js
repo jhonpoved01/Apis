@@ -147,5 +147,9 @@ console.table(await Ej4.analizarUsuariosPosts());
 
 
 
+import * as Ej5 from './ejerciciotransfer5.js'; 
 
+// Bloque de ejecución dentro de ejecutarApp():
+console.log("\n======== ejercicio 2 : ESTADO DE COMENTARIOS ========");
+console.table(await Ej5.clasificarPublicaciones());
 
